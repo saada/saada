@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
-<h3 align="center">A passionate engineer. Have been a technical lead, software engineer, solutions architect, infrastructure engineer, site reliability engineer, customer reliability engineer</h3>
+<h3 align="center">Certified Kubernetes Administrator ✨ Open Source Contributor ✨ Site Reliability Engineer ✨ Software Engineer ✨ Public Speaker ✨ Musician ✨ Scuba Diver ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saada" alt="saada" /> </p>
 
