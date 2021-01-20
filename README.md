@@ -7,6 +7,7 @@
 
 - 👯 I’m looking to collaborate on **OSS**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saada&layout=compact&hide=html" alt="saada" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saada&show_icons=true" alt="saada" /></p>
 
 <p align="center">
